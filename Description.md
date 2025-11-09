@@ -49,3 +49,9 @@
   - *uygulamasıdır.*
   - *ER diyagramları, test senaryoları, Swagger veya Postman test koleksiyonu, frontend arayüz tasarımı ve*
   - *kullanım senaryoları öğrencinin kendi katkısıyla geliştirilecektir*
+
+
+
+
+#### *Made by:* 
+##### __*Melih Aka 445870*__
