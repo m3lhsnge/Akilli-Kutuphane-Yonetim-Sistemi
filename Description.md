@@ -25,22 +25,22 @@
  >*(frontend) de içermesi beklenmektedir.*
 
  ### Backend:
- >- *Flask, Spring Boot veya .NET ile API uç noktaları (GET/POST/PUT/DELETE)*
+  - *Flask, Spring Boot veya .NET ile API uç noktaları (GET/POST/PUT/DELETE)*
   - *Katmanlı mimari: Entity, Repository, Service, Controller*
   - *JWT tabanlı kimlik doğrulama*
   - *E-posta bildirim sistemi (geç iade)*
 
  ### Veritabanı:
-  >- *MSSQL, MySQL veya PostgreSQL tercih edilebilir
+  - *MSSQL, MySQL veya PostgreSQL tercih edilebilir
 
  ### Frontend:
-  >- *Öğrenci, API'leri kullanan işlevsel bir kullanıcı arayüzü geliştirmelidir*
+  - *Öğrenci, API'leri kullanan işlevsel bir kullanıcı arayüzü geliştirmelidir*
   - *Frontend teknolojisi olarak HTML/CSS + JavaScript, Thymeleaf (Spring) kullanılabilir*
   - *Giriş (login), kitap arama/listeleme, ödünç alma/iade, admin CRUD gibi temel ekranlar yer*
   - *almalıdır
 
  ### Test ve Sunum:
-  >- *REST API uç noktaları Postman veya Swagger ile test edilmelidir*
+  - *REST API uç noktaları Postman veya Swagger ile test edilmelidir*
   - *Öğrenci proje testlerini gösteren kısa bir tanıtım videosu çekmeli ve YouTube'a yüklemelidir*
   - *Videoda API'lerin çalıştığı, veri akışının açıklandığı ve örnek senaryoların gösterildiği bir demo*
   - *sunulmalıdır*
