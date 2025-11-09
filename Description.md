@@ -6,10 +6,10 @@
 
  ### Amaç: 
 
- >Bu projede öğrencilerin bir kütüphane yönetim sistemi geliştirerek ilişkisel veritabanı tasarımı,
- temel SQL sorguları (CRUD), veritabanı ilişkileri (JOIN), tetikleyici (TRIGGER) ve prosedür (STORED
- PROCEDURE) yazımı, REST API geliştirimi, frontend arayüz tasarımı ve backend katmanlı mimari
- kavramlarını öğrenmeleri hedeflenmektedir.
+ >*Bu projede öğrencilerin bir kütüphane yönetim sistemi geliştirerek ilişkisel veritabanı tasarımı,*
+ *temel SQL sorguları (CRUD), veritabanı ilişkileri (JOIN), tetikleyici (TRIGGER) ve prosedür (STORED*
+ *PROCEDURE) yazımı, REST API geliştirimi, frontend arayüz tasarımı ve backend katmanlı mimari*
+ *kavramlarını öğrenmeleri hedeflenmektedir.*
 
  ### Proje Açıklaması:
  >*Öğrenci, bir kütüphane sisteminde yer alan kitapların, kullanıcıların (öğrenciler veya*
@@ -25,24 +25,27 @@
  >*(frontend) de içermesi beklenmektedir.*
 
  ### Backend:
- • Flask, Spring Boot veya .NET ile API uç noktaları (GET/POST/PUT/DELETE)
- • Katmanlı mimari: Entity, Repository, Service, Controller
- • JWT tabanlı kimlik doğrulama
- • E-posta bildirim sistemi (geç iade)
- Veritabanı:
- • MSSQL, MySQL veya PostgreSQL tercih edilebilir
- Frontend:
- • Öğrenci, API'leri kullanan işlevsel bir kullanıcı arayüzü geliştirmelidir
- • Frontend teknolojisi olarak HTML/CSS + JavaScript, Thymeleaf (Spring) kullanılabilir
- • Giriş (login), kitap arama/listeleme, ödünç alma/iade, admin CRUD gibi temel ekranlar yer
- almalıdır
- Test ve Sunum:
- • REST API uç noktaları Postman veya Swagger ile test edilmelidir
- • Öğrenci proje testlerini gösteren kısa bir tanıtım videosu çekmeli ve YouTube'a yüklemelidir
- • Videoda API'lerin çalıştığı, veri akışının açıklandığı ve örnek senaryoların gösterildiği bir demo
- sunulmalıdır
- Proje çıktısı: Tüm işlevsel API'leri çalışan bir backend uygulaması, tercih edilen veritabanı sisteminde
- tanımlı veri şeması ve fonksiyonlar ile birlikte temel kullanıcı arayüzüne sahip çalışan bir frontend
- uygulamasıdır.
- ER diyagramları, test senaryoları, Swagger veya Postman test koleksiyonu, frontend arayüz tasarımı ve
- kullanım senaryoları öğrencinin kendi katkısıyla geliştirilecektir
+ >- *Flask, Spring Boot veya .NET ile API uç noktaları (GET/POST/PUT/DELETE)*
+  - *Katmanlı mimari: Entity, Repository, Service, Controller*
+  - *JWT tabanlı kimlik doğrulama*
+  - *E-posta bildirim sistemi (geç iade)*
+
+ ### Veritabanı:
+  >- *MSSQL, MySQL veya PostgreSQL tercih edilebilir
+
+ ### Frontend:
+  >- *Öğrenci, API'leri kullanan işlevsel bir kullanıcı arayüzü geliştirmelidir*
+  - *Frontend teknolojisi olarak HTML/CSS + JavaScript, Thymeleaf (Spring) kullanılabilir*
+  - *Giriş (login), kitap arama/listeleme, ödünç alma/iade, admin CRUD gibi temel ekranlar yer*
+  - *almalıdır
+
+ ### Test ve Sunum:
+  >- *REST API uç noktaları Postman veya Swagger ile test edilmelidir*
+  - *Öğrenci proje testlerini gösteren kısa bir tanıtım videosu çekmeli ve YouTube'a yüklemelidir*
+  - *Videoda API'lerin çalıştığı, veri akışının açıklandığı ve örnek senaryoların gösterildiği bir demo*
+  - *sunulmalıdır*
+  - *Proje çıktısı: Tüm işlevsel API'leri çalışan bir backend uygulaması, tercih edilen veritabanı sisteminde*
+  - *tanımlı veri şeması ve fonksiyonlar ile birlikte temel kullanıcı arayüzüne sahip çalışan bir frontend*
+  - *uygulamasıdır.*
+  - *ER diyagramları, test senaryoları, Swagger veya Postman test koleksiyonu, frontend arayüz tasarımı ve*
+  - *kullanım senaryoları öğrencinin kendi katkısıyla geliştirilecektir*
